@@ -15,3 +15,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taranjotsingh23&show_icons=true&locale=en" alt="taranjotsingh23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taranjotsingh23&" alt="taranjotsingh23" /></p>
+
+[![taranjotsingh23's GitHub | Stats](https://stats.quine.sh/taranjotsingh23/github?theme=light)](https://quine.sh)
+
+[![taranjotsingh23's GitHub | Languages Over Time](https://stats.quine.sh/taranjotsingh23/languages-over-time?theme=light)](https://quine.sh)
+
+[![taranjotsingh23's GitHub | Topics Over Time](https://stats.quine.sh/taranjotsingh23/topics-over-time?theme=light)](https://quine.sh)
